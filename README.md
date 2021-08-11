@@ -5,4 +5,4 @@ Developed in Flutter
 Added Facebook , Twitter , Google Authentication using Firebase.
 
 
-![alt text](https://github.com/veeraswamylingala/Flutter-SocialMedia-Login-App/blob/b9742ec31a5cbec9292a29be90bcfb133c03ff98/assets/images/SocialMediaLoginApp.mp4?raw=true)
+https://user-images.githubusercontent.com/46321871/129036636-5281a6a6-e63f-4ae5-8a00-51b866149989.mp4
