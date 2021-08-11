@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider<SigninProvider>(create: (_) => SigninProvider()),
       ],
       child: MaterialApp(
-          title: 'SocialMediaLoginApp',
+          title: 'SocialMediaLoginAppp',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
               primarySwatch: Colors.blue,
