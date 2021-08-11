@@ -1,6 +1,6 @@
 # socialmedialogin_app
 
-Developed in ##Flutter 
+## Developed in Flutter 
 
 Added Facebook , Twitter , Google Authentication using Firebase.
 
